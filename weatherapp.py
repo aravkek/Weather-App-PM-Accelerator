@@ -15,7 +15,7 @@ import json
 import csv
 from geopy.geocoders import Nominatim
 
-API_KEY = "a98b501c11c5564dde7c581edb4e1d02"
+API_KEY = "YOUR_API_KEY"
 
 DB_name = "weather_data.db"
 
